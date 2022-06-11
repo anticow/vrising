@@ -14,7 +14,7 @@
   "AllWaypointsUnlocked": false,
   "FreeCastleClaim": false,
   "FreeCastleDestroy": false,
-  "InactivityKillEnabled": true,
+  "InactivityKillEnabled": false,
   "InactivityKillTimeMin": 3600,
   "InactivityKillTimeMax": 604800,
   "InactivityKillSafeTimeAddition": 172800,
@@ -178,7 +178,7 @@
         "ServantLimit": 9
       }
     },
-    "CastleLimit": 2
+    "CastleLimit": 3
   },
   "PlayerInteractionSettings": {
     "TimeZone": "Local",
